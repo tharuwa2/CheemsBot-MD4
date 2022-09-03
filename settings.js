@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94766322316'] //ur owner number
+global.ownername = "🦄𝗧𝗵𝗮𝗿𝘂𝘄𝗮" //ur owner name
+global.ytname = "YT: "T͜͡h͜͡a͜͡r͜͡u͜͡w͜͡a͜͡ f͜͡f͜͡ //ur yt chanel name
+global.socialm = "Whatsapp:https://chat.whatsapp.com/J1aPYSeaV0y10ZwUN5yWcN " //ur github or insta name
+global.location = "srilanka, Elpitiya, Divithura" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['94766322316']
+global.ownertag = '94766322316' //ur tag number
+global.botname = '𝗧𝗵𝗮𝗿𝘂𝘄𝗮 Bot MD V4' //ur bot name
+global.linkz = "https://youtube.com/channel/UCs_KFgWyqoyK4tnuNfBGEbg" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCs_KFgWyqoyK4tnuNfBGEbg" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "𝗧𝗵𝗮𝗿𝘂𝘄𝗮 Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄𝗧𝗵𝗮𝗿𝘂𝘄𝗮 officially bot" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
